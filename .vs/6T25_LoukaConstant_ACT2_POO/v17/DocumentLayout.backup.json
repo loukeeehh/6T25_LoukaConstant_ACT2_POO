@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\poo\\6t25_loukaconstant_act2_poo\\6t25_loukaconstant_act2_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\poo\\6t25_loukaconstant_act2_poo\\6t25_loukaconstant_act2_poo\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|solutionrelative:classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\poo\\6t25_loukaconstant_act2_poo\\6t25_loukaconstant_act2_poo\\classes\\complexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|solutionrelative:classes\\complexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\poo\\6t25_loukaconstant_act2_poo\\6t25_loukaconstant_act2_poo\\classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|solutionrelative:classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|c:\\users\\louka\\onedrive\\documents\\ann\u00E9e 2024-2025\\informatique 6e\\poo\\6t25_loukaconstant_act2_poo\\6t25_loukaconstant_act2_poo\\classes\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A320AB8-253A-4AAB-BD99-1114552B836B}|6T25_LoukaConstant_ACT2_POO.csproj|solutionrelative:classes\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sandwich.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Sandwich.cs",
+              "RelativeDocumentMoniker": "Classes\\Sandwich.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Sandwich.cs",
+              "RelativeToolTip": "Classes\\Sandwich.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:27:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:17:00.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Cercle.cs",
+              "RelativeDocumentMoniker": "Classes\\Cercle.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Cercle.cs",
+              "RelativeToolTip": "Classes\\Cercle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:17:00.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Complexe.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Complexe.cs",
+              "RelativeDocumentMoniker": "Classes\\Complexe.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Complexe.cs",
+              "RelativeToolTip": "Classes\\Complexe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:17:00.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Personne.cs",
+              "RelativeDocumentMoniker": "Classes\\Personne.cs",
+              "ToolTip": "C:\\Users\\louka\\OneDrive\\Documents\\Ann\u00E9e 2024-2025\\Informatique 6e\\POO\\6T25_LoukaConstant_ACT2_POO\\6T25_LoukaConstant_ACT2_POO\\Classes\\Personne.cs",
+              "RelativeToolTip": "Classes\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:43:53.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
